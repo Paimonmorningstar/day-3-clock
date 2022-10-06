@@ -1,0 +1,15 @@
+C:\Users\po\Desktop\day 3 clock\bin\Debug\net6.0\day 3 clock.exe
+C:\Users\po\Desktop\day 3 clock\bin\Debug\net6.0\day 3 clock.deps.json
+C:\Users\po\Desktop\day 3 clock\bin\Debug\net6.0\day 3 clock.runtimeconfig.json
+C:\Users\po\Desktop\day 3 clock\bin\Debug\net6.0\day 3 clock.dll
+C:\Users\po\Desktop\day 3 clock\bin\Debug\net6.0\day 3 clock.pdb
+C:\Users\po\Desktop\day 3 clock\obj\Debug\net6.0\day 3 clock.csproj.AssemblyReference.cache
+C:\Users\po\Desktop\day 3 clock\obj\Debug\net6.0\day 3 clock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\po\Desktop\day 3 clock\obj\Debug\net6.0\day 3 clock.AssemblyInfoInputs.cache
+C:\Users\po\Desktop\day 3 clock\obj\Debug\net6.0\day 3 clock.AssemblyInfo.cs
+C:\Users\po\Desktop\day 3 clock\obj\Debug\net6.0\day 3 clock.csproj.CoreCompileInputs.cache
+C:\Users\po\Desktop\day 3 clock\obj\Debug\net6.0\day 3 clock.dll
+C:\Users\po\Desktop\day 3 clock\obj\Debug\net6.0\refint\day 3 clock.dll
+C:\Users\po\Desktop\day 3 clock\obj\Debug\net6.0\day 3 clock.pdb
+C:\Users\po\Desktop\day 3 clock\obj\Debug\net6.0\day 3 clock.genruntimeconfig.cache
+C:\Users\po\Desktop\day 3 clock\obj\Debug\net6.0\ref\day 3 clock.dll
